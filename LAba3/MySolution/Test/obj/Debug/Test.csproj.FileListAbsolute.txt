@@ -1,0 +1,17 @@
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\bin\Debug\Start.exe.config
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\bin\Debug\Start.exe
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\bin\Debug\Start.pdb
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\obj\Debug\MyCompany.Shipakin.Properties.Resources.resources
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\obj\Debug\MyCompany.Shipakin.Start.resources
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\obj\Debug\Start.exe
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\obj\Debug\Start.pdb
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\bin\Debug\UserControls.dll
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\bin\Debug\UserControls.pdb
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\bin\Debug\UserControls.dll.config
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\obj\Debug\Test.csproj.CopyComplete
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\obj\Debug\MyCompany.Shipakin.Form1.resources
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\obj\Debug\MyCompany.Shipakin.Form2.resources
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\Test\obj\Debug\MyCompany.Shipakin.Form3.resources

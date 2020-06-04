@@ -1,0 +1,11 @@
+D:\С# labs\adb-17-07\Lab2\MySolution\UserControls\obj\Debug\MyCompany.UserControls.Properties.Resources.resources
+D:\С# labs\adb-17-07\Lab2\MySolution\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+D:\С# labs\adb-17-07\Lab2\MySolution\UserControls\obj\Debug\UserControls.csproj.CoreCompileInputs.cache
+D:\С# labs\adb-17-07\Lab2\MySolution\UserControls\bin\Debug\UserControls.dll.config
+D:\С# labs\adb-17-07\Lab2\MySolution\UserControls\bin\Debug\UserControls.dll
+D:\С# labs\adb-17-07\Lab2\MySolution\UserControls\bin\Debug\UserControls.pdb
+D:\С# labs\adb-17-07\Lab2\MySolution\UserControls\obj\Debug\UserControls.dll
+D:\С# labs\adb-17-07\Lab2\MySolution\UserControls\obj\Debug\UserControls.pdb
+D:\С# labs\adb-17-07\Lab2\MySolution\UserControls\obj\Debug\MyCompany.UserControls.Check.resources
+D:\С# labs\adb-17-07\Lab2\MySolution\UserControls\obj\Debug\MyCompany.UserControls.MyDialogForm.resources
+D:\С# labs\adb-17-07\Lab2\MySolution\UserControls\obj\Debug\UserControls.csprojAssemblyReference.cache

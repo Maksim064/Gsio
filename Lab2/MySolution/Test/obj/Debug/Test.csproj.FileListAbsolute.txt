@@ -1,0 +1,14 @@
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\bin\Debug\Test.exe.config
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\bin\Debug\Test.exe
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\bin\Debug\Test.pdb
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\bin\Debug\UserControls.dll
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\bin\Debug\UserControls.pdb
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\bin\Debug\UserControls.dll.config
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\obj\Debug\Test.Form1.resources
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\obj\Debug\Test.Properties.Resources.resources
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\obj\Debug\Test.csproj.CopyComplete
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\obj\Debug\Test.exe
+D:\С# labs\adb-17-07\Lab2\MySolution\Test\obj\Debug\Test.pdb

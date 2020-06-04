@@ -1,0 +1,9 @@
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\UserControls\bin\Debug\UserControls.dll.config
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\UserControls\bin\Debug\UserControls.dll
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\UserControls\bin\Debug\UserControls.pdb
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\UserControls\obj\Debug\MyCompany.Shipakin.ClickmaticButton.resources
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\UserControls\obj\Debug\UserControls.csproj.CoreCompileInputs.cache
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\UserControls\obj\Debug\UserControls.dll
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\UserControls\obj\Debug\UserControls.pdb
+D:\С# лабы\adb-17-07-feature-12-shipakin\adb-17-07\LAba3\MySolution\UserControls\obj\Debug\MyCompany.Shipakin.NumericScan.resources
